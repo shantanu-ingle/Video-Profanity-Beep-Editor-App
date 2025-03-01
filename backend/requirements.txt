@@ -1,0 +1,9 @@
+flask
+flask-cors
+openai-whisper
+torch
+torchvision
+pydub
+better_profanity
+numpy
+werkzeug
