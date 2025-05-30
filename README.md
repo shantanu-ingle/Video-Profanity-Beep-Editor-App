@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/b324f2d8-0440-4559-8205-9fb48193b7ae
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/video-profanity-beep-editor-app.git
+git clone https://github.com/shantanu-ingle/Video-Profanity-Beep-Editor-App.git
 cd video-profanity-beep-editor-app/backend
 ```
 
